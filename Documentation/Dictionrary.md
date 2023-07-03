@@ -1,2 +1,2 @@
 # **Dictionrary**
-[[The Basics](Documentation/The%20Baiscs.md)] you will learn the basics of CyberWare
+[[The Basics](Documentation/The Baiscs.md)] you will learn the basics of CyberWare
